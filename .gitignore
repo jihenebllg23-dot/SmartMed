@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Secrets
+.env
+
+# Flutter
+.dart_tool/
+build/
+
+# IA : gros fichiers
+ai/data/raw/
+*.pkl
+*.joblib
